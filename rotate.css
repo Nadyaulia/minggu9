@@ -1,0 +1,48 @@
+body{ 
+    background: pink; 
+    font-family: roboto; 
+    text-align: center; 
+   } 
+     
+   h1{ 
+    color: rgb(19, 15, 15); 
+   } 
+     
+   .ketengah{ 
+    margin: 20px auto; 
+    width: 1300px; 
+   } 
+     
+   .kotak1{ 
+    background:red; 
+    padding: 20px; 
+    float: left; 
+    margin: 50px; 
+    width: 100px;
+    height: 100px;  
+   } 
+     
+   .kotak2{ 
+    background:red; 
+    padding: 20px; 
+    float: left; 
+    margin: 50px; 
+    width: 150px; 
+    height: 150px; 
+    -ms-transform: rotate(30deg); 
+       -webkit-transform: rotate(30deg);
+       transform: rotate(30deg); 
+   } 
+     
+   .kotak3{ 
+    background: red; 
+    padding: 20px; 
+    float: left; 
+    margin: 50px; 
+    width: 200px; 
+    height: 200px; 
+    -ms-transform: rotate(90deg); 
+       -webkit-transform: rotate(90deg); 
+       transform: rotate(90deg); 
+   } 
+     

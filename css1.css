@@ -1,0 +1,64 @@
+body{ 
+    background: #db9b35; 
+    font-family:fantasy; 
+    text-align: center; 
+   } 
+     
+   h1{ 
+    color: rgb(20, 2, 2); 
+   } 
+     
+   .ketengah{ 
+    margin: 15px auto; 
+    width: 1200px; 
+   } 
+     
+   .kotak{ 
+    background:#35db64; 
+    padding: 25px; 
+    width: 200px; 
+    float: left; 
+    margin: 20px; 
+    height: 200px; 
+   } 
+     
+   .kotak1{ 
+    border-radius: 40px 50px ; 
+   } 
+     
+   .kotak2{ 
+    border-radius: 20px 40px 60px 90px; 
+ 
+   } 
+     
+   .kotak3{ 
+    border-radius: 100px 20px 100px; 
+   } 
+     
+   .kotak3{ 
+    border-radius: 2px 120px 80px 15px; 
+   } 
+     
+   .kotak4{ 
+    border-radius: 30px 0px 0px 0px; 
+   } 
+     
+   .kotak5{ 
+    border-radius: 100px 100px 100px 100px; 
+   } 
+     
+   .kotak6{ 
+    border-radius: 80%; 
+   } 
+     
+   .kotak7{ 
+    border-radius: 0%; 
+   } 
+     
+   .kotak8{ 
+    border-radius: 100px 10px 20px; 
+   } 
+
+   .kotak9{ 
+    border-radius:  50% 50px ; 
+   } 

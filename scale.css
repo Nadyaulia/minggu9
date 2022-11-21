@@ -1,0 +1,36 @@
+body{ 
+    background: #db35d3; 
+    font-family: 'Times New Roman', Times, serif; 
+    text-align: center; 
+   } 
+     
+   h1{ 
+    color: yellow; 
+   } 
+     
+   .ketengah{ 
+    margin: 10px auto; 
+    width: 1150px; 
+   } 
+     
+   .kotak1{ 
+    background: wheat; 
+    padding: 20px; 
+    float: left; 
+    margin: 50px; 
+    width: 250px; 
+    height: 250px;  
+   } 
+     
+   .kotak2{ 
+    background:wheat; 
+    padding: 10px; 
+    float: left; 
+    margin: 50px; 
+    width: 150px; 
+    height: 130px; 
+    -ms-transform: scale(2,3); 
+    -webkit-transform: scale(2,3); 
+    transform: scale(2,2); 
+   }   
+   

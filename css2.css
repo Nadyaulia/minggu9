@@ -1,0 +1,59 @@
+body{ 
+ background: #f8f7f2; 
+ font-family: roboto; 
+ text-align: center; 
+} 
+  
+h1{ 
+ color: rgb(19, 8, 8); 
+} 
+  
+.ketengah{ 
+ margin: 10px auto; 
+ width: 1150px; 
+} 
+   
+.kotak{ 
+ background: blue; 
+ width: 500px; 
+ float: left; 
+ height: 250px; 
+ margin: 30px; 
+} 
+  
+.gradient1 { 
+ background: linear-gradient(red, rgb(60, 128, 0));
+ background: -webkit-linear-gradient(red, rgb(60, 128, 0));
+ background: -o-linear-gradient(red, rgb(19, 128, 0));
+ background: -moz-linear-gradient(red, green); 
+} 
+  
+.gradient2 { 
+ background: linear-gradient(to right, red , rgb(0, 255, 229), rgb(0, 11, 128)); 
+ background: -webkit-linear-gradient(left, red , rgb(0, 255, 229), rgb(0, 9, 128));
+ background: -o-linear-gradient(right, red, rgb(0, 255, 229), rgb(0, 11, 128)); 
+ background: -moz-linear-gradient(right, red, rgb(0, 200, 255), rgb(0, 9, 128)); 
+} 
+  
+.gradient3 {   
+       background: radial-gradient(rgb(255, 123, 0), yellow, rgb(0, 128, 122)); 
+       background: -webkit-radial-gradient(rgb(255, 123, 0), yellow, rgb(0, 128, 122)); 
+       background: -o-radial-gradient(rgb(255, 119, 0), yellow, rgb(0, 128, 124)); 
+       background: -moz-radial-gradient(rgb(255, 123, 0), yellow, rgb(0, 128, 122));
+} 
+  
+.gradient4 { 
+       background: radial-gradient(circle, pink, yellow, green);
+       background: -webkit-radial-gradient(circle,pink, yellow, green);
+       background: -o-radial-gradient(circle, pink, yellow, green); 
+       background: -moz-radial-gradient(circle, pink, yellow, green); 
+       background: -moz-repeating-radial-gradient(circle,pink,yellow,green);
+} 
+
+.gradient5 {
+       background: radial-gradient(circle,black, red, orange);
+       background: -webkit-radial-gradient(circle,black,red,orange);
+       background: -o-radial-gradient(circle, black,red,orange); 
+       background: -moz-radial-gradient(circle, black,red,orange); 
+       background: -moz-repeating-radial-gradient(circle,black,red,orange);
+}
